@@ -12,7 +12,8 @@ How do the language and ideas of national identity in state-sanctioned education
 
 ## Paper
 
-- [denney-vandepol_2026_constructing-the-nation.pdf](denney-vandepol_2026_constructing-the-nation.pdf)
+- [denney-vandepol_2026_constructing-the-nation.pdf](denney-vandepol_2026_constructing-the-nation.pdf) (manuscript)
+- [denney-vandepol_2026_constructing-the-nation-si.pdf](denney-vandepol_2026_constructing-the-nation-si.pdf) (supplementary information)
 
 ## Citation
 
