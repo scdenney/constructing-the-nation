@@ -15,11 +15,27 @@ How do the language and ideas of national identity in state-sanctioned education
 - [denney-vandepol_2026_constructing-the-nation.pdf](denney-vandepol_2026_constructing-the-nation.pdf) (manuscript)
 - [denney-vandepol_2026_constructing-the-nation-si.pdf](denney-vandepol_2026_constructing-the-nation-si.pdf) (supplementary information)
 
+## Presentation
+
+Slides from the Midwest Political Science Association (MPSA) Annual Conference, Chicago, 2026.
+
+- [denney-vandepol_2026_constructing-the-nation-mpsa.pdf](mpsa_presentation/denney-vandepol_2026_constructing-the-nation-mpsa.pdf) (PDF)
+- [Constructing the Nation - Deck.html](mpsa_presentation/Constructing%20the%20Nation%20-%20Deck.html) (interactive HTML deck — clone or download to view)
+
 ## Citation
 
+Working paper:
+
 > Denney, Steven, and Aron van de Pol. 2026. "Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks." Working Paper. https://github.com/scdenney/constructing-the-nation
+
+Conference presentation:
+
+> Denney, S., & van de Pol, A. (2026). Constructing the nation: Identity and historical narratives in South Korean history textbooks. Midwest Political Science Association (MPSA) Conference, April 2026.
 
 ## Contact
 
 Steven Denney, Assistant Professor, Leiden University
 s.c.denney@hum.leidenuniv.nl
+
+Aron van de Pol, Leiden University
+a.m.van.de.pol@hum.leidenuniv.nl
