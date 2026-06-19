@@ -1,5 +1,7 @@
 # Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks
 
+> **This repository has moved and is archived.** The maintained version — manuscript, supplementary information, the MPSA presentation, and the full data + code replication package — now lives at **https://github.com/aronvandepol/constructing-the-nation**.
+
 **Steven Denney** (Leiden University) · **Aron van de Pol** (Leiden University)
 
 **Last updated:** 19 June 2026
