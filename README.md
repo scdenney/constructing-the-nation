@@ -26,7 +26,7 @@ Slides from the Midwest Political Science Association (MPSA) Annual Conference, 
 
 Working paper:
 
-> Denney, Steven, and Aron van de Pol. 2026. "Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks." Working Paper. https://github.com/scdenney/constructing-the-nation
+> Denney, Steven, and Aron van de Pol. 2026. "Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks." Working Paper. https://github.com/aronvandepol/constructing-the-nation
 
 Conference presentation:
 
